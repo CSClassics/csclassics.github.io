@@ -1,0 +1,37 @@
+[
+    {
+        "class": "Class 1",
+        "date": "1965",
+        "author": "Moore",
+        "name": "Cramming more components onto integrated circuits",
+        "link": "moore.pdf"
+    },
+    {
+        "class": "Class 1",
+        "date": "1853",
+        "author": "Boole",
+        "name": "An investigation of the laws of thought",
+        "link": "moore.pdf"
+    },
+    {
+        "class": "Class 4",
+        "date": "1936",
+        "author": "Turing",
+        "name": "On computable numbers, with an application to the Entscheidungsproblem",
+        "link": "moore.pdf"
+    },
+    {
+        "class": "Class 3",
+        "date": "1842",
+        "author": "Menabrea and Lovelac",
+        "name": "A sketch of the analytical engine invented by Charles Babbage",
+        "link": "moore.pdf"
+    },
+    {
+        "class": "Class 2",
+        "date": "1966",
+        "author": "Weizenbaum",
+        "name": "ELIZA -- A computer program for the study of natural langauage communication between man and machine",
+        "link": ""
+    }
+]
