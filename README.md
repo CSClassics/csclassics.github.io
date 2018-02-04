@@ -28,6 +28,10 @@ The annotations run on h, an open-source annotation framework by the non-profit 
 
 You will need to sign up for a free account in order to save your annotations.
 
+You can post highlights and annotations to either public or private.
+
+There is an option to create a separate group from the public that may be more fitting for each classroom.
+
 ## Preparing the papers using Optical Character Recognition (OCR)
 Many papers were written before computers existed and only available through physical books. This requires them to be scanned and converted to a PDF. However, an additional step is required in order to annotate the text. This is a process called Optical Character Recognition which converts the print into machine encoded text.
 
