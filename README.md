@@ -6,9 +6,9 @@ The hope is that by seeing each others highlights, notes, and thoughts on partic
 
 ## Getting Started
 
-1. Go to www.csclassics.com.
+1. Go to www.csclassics.com
 2. Select a paper to collaborate on
-3. Sign up for a free hypothesis account to save your annotations
+3. Sign up for a free [Hypothesis](https://hypothes.is) account to save your notes
 
 # Paper Locations
 Since many of the papers are hosted in embedded viewers, it was not possible to have all of them be embedded and available for annotation.
