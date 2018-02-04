@@ -2,15 +2,13 @@
 # Overview
 The concept for this was inspired by Harry Lewis's class Computer Science Classics. In the class students are assigned papers that set the foundation for the field of computer scientist and would discuss them in-person each week. This site allows for a more in-depth discussion outside of the classroom.
 
-## Getting Started
-
-Go to www.csclassics.com
-
-## Reason for the site
-While an exciting and innovating approach to understanding the history of computer science, many constraints arise from this format. Most notably, each student is only able to contribute a small amount in the timeframe of the class discussion.
-
 The hope is that by seeing each others highlights, notes, and thoughts on particular parts, it will drive a more conversation and perspectives, which will lead to a more engaging dialog during class.
 
+## Getting Started
+
+1. Go to www.csclassics.com.
+2. Select a paper to collaborate on
+3. Sign up for a free hypothesis account to save your annotations
 
 # Paper Locations
 Since many of the papers are hosted in embedded viewers, it was not possible to have all of them be embedded and available for annotation.
