@@ -252,8 +252,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 5",
+   "topic": "Optional",
    "author": "Shannon",
    "date": 1950,
    "name": "Programming a computer for playing chess",
@@ -264,8 +264,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 5",
+   "topic": "Computers and Thinking",
    "author": "Turing",
    "date": 1950,
    "name": "Computing Machinery and Intelligence",
@@ -276,8 +276,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 5",
+   "topic": "Optional",
    "author": "Kleene",
    "date": 1951,
    "name": "Representation of events in nerve nets and finite automata",
@@ -300,8 +300,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 6",
+   "topic": "Software as Engineering",
    "author": "Hopper",
    "date": 1952,
    "name": "The education of a computer",
@@ -312,8 +312,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 5",
+   "topic": "Optional",
    "author": "Shannon",
    "date": 1953,
    "name": "Computers and automata",
@@ -324,8 +324,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 6",
+   "topic": "Artificial Intelligence",
    "author": "McCarthy, Minsky, Rochester, Shannon",
    "date": 1955,
    "name": "A proposal for the Dartmouth summer institute on artifical intelligence",
@@ -372,8 +372,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 5",
+   "topic": "Formal Models",
    "author": "Chomsky",
    "date": 1956,
    "name": "Three Models for the Description of Language",
@@ -384,8 +384,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 7",
+   "topic": "Programming Languages",
    "author": "Backus et al.",
    "date": 1957,
    "name": "The FORTRAN automatic coding system",
@@ -408,8 +408,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 5",
+   "topic": "Formal Models",
    "author": "Rabin and Scott",
    "date": 1959,
    "name": "Finite automata and their decision problems",
@@ -528,8 +528,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 7",
+   "topic": "Programming Languages",
    "author": "Naur",
    "date": 1963,
    "name": "Revised report on the algorithmic language ALGOL 60",
@@ -612,8 +612,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 5",
+   "topic": "Optional",
    "author": "Knuth",
    "date": 1965,
    "name": "On the translation of languages from left to right",
@@ -1032,8 +1032,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 6",
+   "topic": "Software as Engineering",
    "author": "Brooks",
    "date": 1975,
    "name": "The Mythical Man-Month",
@@ -1044,8 +1044,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 7",
+   "topic": "Optional",
    "author": "DoD",
    "date": 1975,
    "name": "Strawman requirements",
@@ -1176,8 +1176,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 7",
+   "topic": "Optional",
    "author": "Aho Kernighan and Weinberger",
    "date": 1978,
    "name": "Awk — A Pattern Scanning and Processing Language",
@@ -1296,8 +1296,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 6",
+   "topic": "Optional",
    "author": "Block",
    "date": 1981,
    "name": "Psychologism and Behaviorism",
@@ -1452,8 +1452,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 5",
+   "topic": "Optional",
    "author": "Shieber",
    "date": 1985,
    "name": "Evidence against the context-freeness of natural languages",
@@ -1488,7 +1488,7 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
+   "class": "Software as Engineering",
    "topic": "",
    "author": "Brooks",
    "date": 1986,
@@ -1668,8 +1668,8 @@
    "citation": ""
  },
  {
-   "class": "unassigned",
-   "topic": "",
+   "class": "Class 6",
+   "topic": "Optional",
    "author": "Leveson",
    "date": 1993,
    "name": "An investigation of the Therac-25 accidents",
