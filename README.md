@@ -6,7 +6,7 @@ The hope is that by seeing each others highlights, notes, and thoughts on partic
 
 ## Getting Started
 
-1. Go to www.csclassics.com
+1. Go to localastronaut.github.io/harvard-cs-classics
 2. Select a paper to collaborate on
 3. Sign up for a free [Hypothesis](https://hypothes.is) account to save your notes
 
